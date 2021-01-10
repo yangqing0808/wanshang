@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="543a65f4-cad7-4006-bcb1-dcbc38da130c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="F:\2021-01-10\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1mr9SiRQsSey5CiKJXrBrLU7jQv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="2021-01-10" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="2021-01-10" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="2021-01-10" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="543a65f4-cad7-4006-bcb1-dcbc38da130c" name="Default Changelist" comment="" />
+      <created>1610240846138</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610240846138</updated>
+      <workItem from="1610240851669" duration="3524000" />
+      <workItem from="1610261602971" duration="795000" />
+    </task>
+    <task id="LOCAL-00001" summary="nihao">
+      <created>1610261215284</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1610261215284</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="nihao" />
+    <option name="LAST_COMMIT_MESSAGE" value="nihao" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="323" y="46" key="CommitChangelistDialog2" timestamp="1610261213739">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="323" y="46" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1610261213739" />
+    <state x="579" y="170" key="FileChooserDialogImpl" timestamp="1610261789220">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="579" y="170" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1610261789220" />
+    <state x="675" y="320" width="273" height="220" key="Github.ShareDialog" timestamp="1610260784350">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="675" y="320" width="273" height="220" key="Github.ShareDialog/0.0.1600.860@0.0.1600.860" timestamp="1610260784350" />
+    <state x="653" y="134" key="Github.UntrackedFilesDialog" timestamp="1610260811552">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="653" y="134" key="Github.UntrackedFilesDialog/0.0.1600.860@0.0.1600.860" timestamp="1610260811552" />
+    <state width="1557" height="222" key="GridCell.Tab.0.bottom" timestamp="1610261481040">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="222" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1610261481040" />
+    <state width="1557" height="222" key="GridCell.Tab.0.center" timestamp="1610261481040">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="222" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1610261481040" />
+    <state width="1557" height="222" key="GridCell.Tab.0.left" timestamp="1610261481039">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="222" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1610261481039" />
+    <state width="1557" height="222" key="GridCell.Tab.0.right" timestamp="1610261481040">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="222" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1610261481040" />
+    <state x="301" y="71" key="SettingsEditor" timestamp="1610261165874">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="301" y="71" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1610261165874" />
+    <state x="392" y="162" key="Vcs.Push.Dialog.v2" timestamp="1610261340673">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="392" y="162" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1610261340673" />
+    <state x="480" y="253" key="com.intellij.ide.util.TipDialog" timestamp="1610261608452">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="480" y="253" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1610261608452" />
+    <state x="174" y="39" key="new project wizard" timestamp="1610261790579">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="174" y="39" key="new project wizard/0.0.1600.860@0.0.1600.860" timestamp="1610261790579" />
+  </component>
+</project>
